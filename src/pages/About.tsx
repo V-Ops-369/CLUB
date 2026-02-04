@@ -26,10 +26,12 @@ const milestones = [
 ];
 
 const team = [
-  { name: "Alex Chen", role: "President", initial: "A" },
-  { name: "Maya Patel", role: "Vice President", initial: "M" },
-  { name: "Jordan Lee", role: "Creative Director", initial: "J" },
-  { name: "Sam Rivera", role: "Events Lead", initial: "S" },
+  { name: "Adithya gella", role: "President", initial: "A" },
+  { name: "Vishnu vardhan", role: "Vice President", initial: "vv" },
+  { name: "Dedeepya nethi", role: "Gensec", initial: "D" },
+  { name: "Naga prasuna", role: "social media head", initial: "P" },
+  { name: "Veerender nath", role: "Creative Lead", initial: "V" },
+  { name: "Purna Sameera", role: "Events head", initial: "S" },
 ];
 
 export default function About() {
